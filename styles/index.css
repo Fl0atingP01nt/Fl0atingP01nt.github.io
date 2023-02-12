@@ -1,0 +1,28 @@
+@font-face {
+	font-family: custom_monospace;
+	src: url("larabiefont.otf");
+}
+
+body {
+	background-color: black;
+	color: green;
+
+	font-family: custom_monospace;
+}
+
+.index-title {
+	border-color: darkgreen;
+	border-style: solid;
+	border-width: 1mm;
+
+	margin-top: 1cm;
+
+	padding-top: 0.5in;
+	padding-left: 1in;
+	padding-right: 0.5cm;
+	padding-bottom: 1in;
+}
+
+#title-links {
+	margin-top: 2cm;
+}
