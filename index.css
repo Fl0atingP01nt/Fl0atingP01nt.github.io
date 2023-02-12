@@ -1,13 +1,8 @@
-@font-face {
-	font-family: custom_monospace;
-	src: url("larabiefont.otf");
-}
-
 body {
 	background-color: black;
 	color: green;
 
-	font-family: custom_monospace;
+	font-family: Space Mono, monospace;
 }
 
 .index-title {
